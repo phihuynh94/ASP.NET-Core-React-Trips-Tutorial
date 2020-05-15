@@ -1,4 +1,4 @@
-# ASP.NET and React Trips-Tutorial
+# ASP.NET Core React Trips-Tutorial
  
 Tech: ASP.NET Core 3.1 Web API - React - HTML/CSS - Bootstrap - Auth0
 
